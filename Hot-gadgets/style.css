@@ -1,0 +1,36 @@
+.container{
+  
+    border-radius: 20px;
+    margin-bottom: 40px;
+   
+
+}
+.buy-btn{
+    background-color: black;
+    border-radius: 5px;
+    color: whitesmoke;
+    padding: 0px 10px 0px 10px;
+    font-size: 17px;
+}
+.buy-btn:hover{
+    background-color: white;
+    color: black;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightslategray;
+}
+.catagori{
+    text-align: center;
+}
+.per{
+width: 100px;
+
+}
+
+.show{
+width: 100px;
+}
